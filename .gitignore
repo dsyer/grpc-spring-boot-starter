@@ -3,3 +3,7 @@ build
 *.iml
 **/generated
 classes
+target/
+.classpath
+.project
+.settings/
